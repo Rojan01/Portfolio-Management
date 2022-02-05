@@ -1,0 +1,1 @@
+enum Market { IPO, SECONDARY }
